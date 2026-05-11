@@ -10,7 +10,7 @@ from telegram.ext import (
     filters, ContextTypes
 )
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8739407292:AAH-KoH_ZakxmwM6IkvFNGGigBDwtfyNdKQ")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "")
 DATA_FILE = "zavod_data.json"
 
 # =====================
